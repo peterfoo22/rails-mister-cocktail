@@ -5,7 +5,10 @@
   <img src="https://res.cloudinary.com/peterfoo22/image/upload/v1571984115/images_j0shc6.png" width="100" height= "100" alt="" id = "topcorner">
   <span class="navbar-brand mb-0 h1">Mister Cocktail</span>
   </a>
- <button type="button" class="btn btn-primary"><%= link_to "Create a Cocktail!", new_cocktail_path, style: 'color:#FFFFFF;' %></button>
+  <div class = "d-flex flex-column">
+ <button type="button" class="btn btn-primary" style = "border: solid black 1px"><%= link_to "Create a Cocktail!", new_cocktail_path, style: 'color:#FFFFFF;' %></button>
+ <button type="button" class="btn btn-primary" style = "border: solid black 1px"><%= link_to "Back to Home Page", cocktails_path, style: 'color:#FFFFFF;' %></button>
+  </div>
 </nav>
 </div>
 </header>

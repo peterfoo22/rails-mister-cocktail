@@ -17,9 +17,9 @@ https://petermrcocktail.herokuapp.com/ (Running on Heroku)
 <b>Local Run:</b>  
 
 Clone the Project Locally
-<p>Make sure you have Ruby on Rails 5.2 installed, along with other dependencies.</p>
-<p>Run Rails server command on your Terminal.</p>
-<p>Site will be up and running on localhost:3000.</p>
+*Make sure you have Ruby on Rails 5.2 installed, along with other dependencies.
+*Run Rails server command on your Terminal.</p>
+*Site will be up and running on localhost:3000.
 
 
 <b>Dependencies</b>

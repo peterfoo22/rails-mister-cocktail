@@ -4,7 +4,9 @@
 A cocktail recipe site that holds cocktail recipes.  Users can add, delete, or modify existing recipe cards.  Cards have ingredients, instructions, and images of different cocktail recipes.
 
 <b>Features:</b>
-Users are able to delete, add, modify, and view different recipes.   When adding ingredients  user has different options that are preloaded in the drop down menu.  Users can also modify drinks based on their knowledge.
+<p>Users are able to delete, add, modify, and view different recipes.</p>
+<p>When adding ingredients  user has different options that are preloaded in the drop down menu.</p>
+<p>Users can also modify drinks based on their knowledge.</p>
 
 <b>Running the project:</b>
 
@@ -15,9 +17,9 @@ https://petermrcocktail.herokuapp.com/ (Running on Heroku)
 <b>Local Run:</b>  
 
 Clone the Project Locally
-Make sure you have Ruby on Rails 5.2 installed, along with other dependencies .
-Run Rails server command on your Terminal
-Site will be up and running on localhost:3000
+<p>Make sure you have Ruby on Rails 5.2 installed, along with other dependencies.</p>
+<p>Run Rails server command on your Terminal.</p>
+<p>Site will be up and running on localhost:3000.</p>
 
 
 <b>Dependencies</b>

@@ -1,10 +1,10 @@
 # Mister Cocktail
 
-Overview
+Overview:
 A cocktail recipe site that holds cocktail recipes.  Users can add, delete, or modify existing recipe cards.  Cards have ingredients, instructions, and images of different cocktail recipes.
 
- Features
- Users are able to delete, add, modify, and view different recipes.   When adding ingredients  user has different options that are preloaded in the drop down menu.  Users can also modify drinks based on their knowledge.
+Features:
+Users are able to delete, add, modify, and view different recipes.   When adding ingredients  user has different options that are preloaded in the drop down menu.  Users can also modify drinks based on their knowledge.
 
 Running the project :
 
